@@ -1,5 +1,5 @@
 # Atividades - Prática em Sistemas Digitais
-### Alunos:
+### Alunos (Grupo 12):
 Beariz Alves dos Santos (15588630)  
 Henrique Vieira Lima (15459372)
 ### Conteúdo do repositório:
